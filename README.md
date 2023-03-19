@@ -1,17 +1,33 @@
-### Hi there 👋
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+pip install poetry
+poetry init
 
-<!--
-**Tutur33/tutur33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This command will guide you through creating your pyproject.toml config.
 
-Here are some ideas to get you started:
+Package name [test]:  stephrobert
+Version [0.1.0]:
+Description []:
+Author [Stephane Robert <stephane.robert.28@gmil.com>, n to skip]:  n
+License []:
+Compatible Python versions [^3.10]:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Would you like to define your main dependencies interactively? (yes/no) [yes] no
+Would you like to define your development dependencies interactively? (yes/no) [yes] no
+Generated file
+
+[tool.poetry]
+name = "stephrobert"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+Do you confirm generation? (yes/no) [yes]
