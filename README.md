@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
 
 <!--
 **Tutur33/tutur33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
