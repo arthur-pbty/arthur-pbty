@@ -1,33 +1,32 @@
-pip install poetry
-poetry init
+$ cd profil-github
+$ ls
+README.md  projets  contributions.md
+$ cat README.md
+# Mon profil Github
 
-This command will guide you through creating your pyproject.toml config.
+Je suis un développeur passionné et expérimenté qui aime travailler sur des projets innovants. Mon expertise se situe principalement dans le développement web et la science des données.
 
-Package name [test]:  stephrobert
-Version [0.1.0]:
-Description []:
-Author [Stephane Robert <stephane.robert.28@gmil.com>, n to skip]:  n
-License []:
-Compatible Python versions [^3.10]:
+$ cd projets
+$ ls
+projet-1  projet-2  projet-3
+$ cat projet-1/README.md
+## Projet 1 : Plateforme de e-commerce
 
-Would you like to define your main dependencies interactively? (yes/no) [yes] no
-Would you like to define your development dependencies interactively? (yes/no) [yes] no
-Generated file
+Cette plateforme de e-commerce a été construite avec Python Flask pour le backend et React pour le frontend. Les utilisateurs peuvent parcourir les produits, ajouter des articles à leur panier et passer une commande. Les paiements sont gérés via Stripe.
 
-[tool.poetry]
-name = "stephrobert"
-version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
-readme = "README.md"
+$ cat projet-2/README.md
+## Projet 2 : Système de recommandation de films
 
-[tool.poetry.dependencies]
-python = "^3.10"
+Ce projet a impliqué l'utilisation de Python et de la bibliothèque Pandas pour construire un système de recommandation de films. J'ai travaillé avec un ensemble de données de films pour créer un modèle qui recommande des films similaires en fonction des préférences de l'utilisateur.
 
+$ cd ..
+$ cat contributions.md
+# Mes contributions Open-Source
 
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+J'ai contribué à plusieurs projets open-source, notamment :
 
+- [Flask](https://github.com/pallets/flask)
+- [Pandas](https://github.com/pandas-dev/pandas)
+- [React](https://github.com/facebook/react)
 
-Do you confirm generation? (yes/no) [yes]
+N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de collaborations potentielles.
