@@ -1,4 +1,4 @@
-# 𝗔𝗿𝘁𝗵𝘂𝗿 𝗣𝘂𝗲𝗰𝗵𝗯𝗲𝗿𝘁𝘆
+# 𝗔𝗿𝘁𝗵𝘂𝗿 
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for sailing and technology. Feel free to reach out and connect, whether you're interested in coding, discussing sailing, or just having a chat. You can find me on [Instagram](https://www.instagram.com/arthur.pbty/).
 
@@ -25,7 +25,7 @@ My goal is to continue learning, innovating, and inspiring through my projects. 
 
 ## Portfolio
 
-Check out my [portfolio]([https://github.com/your-username/your-portfolio-repo](https://github.com/Tutur33/portfolio)) to explore my work and projects.
+Check out my [portfolio](https://github.com/Tutur33/portfolio) to explore my work and projects.
 
 ## Get in Touch
 
