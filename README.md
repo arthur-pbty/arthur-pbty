@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for sailing and technology. Feel free to reach out and connect, whether you're interested in coding, discussing sailing, or just having a chat. You can find me on [Instagram](https://www.instagram.com/arthur.pbty/).
 
-![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21928%26in%3D0)
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21928%26project%3D%26in%3D0)](https://codetime.dev)
 
 ## About Me
 
