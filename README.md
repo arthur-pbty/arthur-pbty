@@ -31,7 +31,6 @@ Check out my [portfolio](https://github.com/Tutur33/portfolio) to explore my wor
 
 If you have any questions, want to collaborate on an exciting project, or just have a friendly conversation, feel free to contact me:
 
-- Email: [email@exemple.com]
 - [Instagram](https://www.instagram.com/arthur.pbty/)
 - [GitHub](https://github.com/Tutur33)
 - [Discord](https://discord.gg/HxgaA44CPh)
