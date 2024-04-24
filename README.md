@@ -37,4 +37,8 @@ If you have any questions, want to collaborate on an exciting project, or just h
 - [Website](http://tuturp33.000webhostapp.com)
 
 
-![Snake](snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="darkSnake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="darkSnake.svg" />
+  <img alt="github-snake" src="darkSnake.svg" />
+</picture>
