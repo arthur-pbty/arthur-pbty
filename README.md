@@ -35,3 +35,6 @@ If you have any questions, want to collaborate on an exciting project, or just h
 - [GitHub](https://github.com/Tutur33)
 - [Discord](https://discord.gg/HxgaA44CPh)
 - [Website](http://tuturp33.000webhostapp.com)
+
+
+![Snake](snake.svg)
