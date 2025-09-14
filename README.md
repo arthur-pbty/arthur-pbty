@@ -27,12 +27,7 @@ Check out my [portfolio](https://github.com/Tutur33/portfolio) to explore my wor
 
 ## Get in Touch
 
-If you have any questions, want to collaborate on an exciting project, or just have a friendly conversation, feel free to contact me:
-
-- [Instagram](https://www.instagram.com/arthur.pbty/)
-- [GitHub](https://github.com/Tutur33)
-- [Discord](https://discord.gg/HxgaA44CPh)
-- [Website](http://tuturp33.000webhostapp.com)
+If you have any questions, want to collaborate on an exciting project, or just have a friendly conversation, feel free to contact me: [All links](https://links.serverarthur.duckdns.org/)
 
 
 <picture>
