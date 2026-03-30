@@ -1,37 +1,84 @@
-# 𝗔𝗿𝘁𝗵𝘂𝗿 
+# 🚀 Arthur
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for sailing and technology. Feel free to reach out and connect, whether you're interested in coding, discussing sailing, or just having a chat. You can find me on [Instagram](https://www.instagram.com/arthur.pbty/).
+🔥 **Free online tools (no signup):** https://arthurp.fr
 
-## About Me
+💻 Developer building fast, simple and useful web apps.
 
-I'm Arthur, a dedicated developer with a passion for web and software development. Each line of code I write is a step towards creating unique and engaging experiences. I'm driven by the desire to bring ideas to life and shape them into innovative designs.
+---
 
-### My Skills
+## 🧠 About Me
 
-- Web Development
-- Web Design
-- Application Development
-- Project Management
+I'm Arthur, a passionate developer focused on creating simple and useful web applications.
+I build tools that solve real problems and are instantly usable without friction.
 
-### My Interests
+---
 
-In addition to coding, I have a deep love for sailing and exploring new places. I'm also an avid reader of technology and creativity-related books.
+## 🛠️ My Tools
 
-### My Vision
+### 🔗 Web Utilities
 
-My goal is to continue learning, innovating, and inspiring through my projects. I aim to contribute to creating a better and more engaging web for everyone.
+* QR Code Generator → https://qrcode.arthurp.fr
+* ReduceLink (URL Shortener) → https://reducelink.arthurp.fr
 
-## Portfolio
+---
 
-Check out my [portfolio](https://github.com/Tutur33/portfolio) to explore my work and projects.
+### ⚡ Productivity
 
-## Get in Touch
+* FocusPomodoro → https://pomodoro.arthurp.fr
+* BlocNote → https://blocnote.arthurp.fr
+* Chrono → https://chrono.arthurp.fr
+* Clock → https://clock.arthurp.fr
+* Calculatrice → https://calculatrice.arthurp.fr
 
-If you have any questions, want to collaborate on an exciting project, or just have a friendly conversation, feel free to contact me: [All links](https://links.serverarthur.duckdns.org/)
+---
 
+### 📚 Learning & Education
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="darkSnake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="darkSnake.svg" />
-  <img alt="github-snake" src="darkSnake.svg" />
-</picture>
+* QCU Physique-Chimie → https://qcu.arthurp.fr
+* Learn → https://learn.arthurp.fr
+
+---
+
+### 🧩 Fun & Generators
+
+* Sudoku Generator & Solver → https://sudoku.arthurp.fr
+* Imprimer Sudoku → https://imprimersudoku.arthurp.fr
+* Moon Phases → https://moon.arthurp.fr
+
+---
+
+### 🌐 Online Apps
+
+* FormCraft (Google Forms alternative) → https://form.arthurp.fr
+* Visio (Instant video room) → https://visio.arthurp.fr
+
+---
+
+### 🤖 Projects
+
+* LazyBot (Discord bot + dashboard) → https://lazybot.arthurp.fr
+
+---
+
+### 🎨 Other
+
+* Linktree → https://links.arthurp.fr
+* Portfolio → https://portfolio.arthurp.fr
+* Doudou Album → https://doudou.arthurp.fr
+
+---
+
+## 🎯 Goal
+
+Create a growing ecosystem of **free, fast and useful online tools** for everyone.
+
+---
+
+## 📫 Contact
+
+* 🌐 Website: https://arthurp.fr
+* 📸 Instagram: https://www.instagram.com/arthur.pbty/
+
+---
+
+⭐ Feel free to explore, use, and share my tools!
