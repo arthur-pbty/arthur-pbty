@@ -77,6 +77,8 @@ Create a growing ecosystem of **free, fast and useful online tools** for everyon
 ## 📫 Contact
 
 * 🌐 Website: https://arthurp.fr
+* 📩 Contact page: https://contact.arthurp.fr
+* ✉️ Email: [contact@arthurp.fr](mailto:contact@arthurp.fr)
 * 📸 Instagram: https://www.instagram.com/arthur.pbty/
 
 ---
