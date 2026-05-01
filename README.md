@@ -1,86 +1,61 @@
 # 🚀 Arthur
 
-🔥 **Free online tools (no signup):** https://arthurp.fr
-
-💻 Developer building fast, simple and useful web apps.
-
----
-
-## 🧠 About Me
-
-I'm Arthur, a passionate developer focused on creating simple and useful web applications.
-I build tools that solve real problems and are instantly usable without friction.
+🌐 https://arthurp.fr  
+🧑‍💻 Developer building fast, simple and useful web apps  
+⚙️ Self-hosted mindset • Minimal tools • Practical projects
 
 ---
 
-## 🛠️ My Tools
+## 🧠 About
 
-### 🔗 Web Utilities
+I build lightweight web applications focused on simplicity, speed and usability.
 
-* QR Code Generator → https://qrcode.arthurp.fr
-* ReduceLink (URL Shortener) → https://reducelink.arthurp.fr
-
----
-
-### ⚡ Productivity
-
-* FocusPomodoro → https://pomodoro.arthurp.fr
-* BlocNote → https://blocnote.arthurp.fr
-* Chrono → https://chrono.arthurp.fr
-* Clock → https://clock.arthurp.fr
-* Calculatrice → https://calculatrice.arthurp.fr
+Most of my projects are designed to:
+- remove friction (no signup, instant use)
+- solve real problems
+- stay fast and minimal
+- work as part of a personal ecosystem
 
 ---
 
-### 📚 Learning & Education
+## 🌍 Projects
 
-* QCU Physique-Chimie → https://qcu.arthurp.fr
-* Learn → https://learn.arthurp.fr
+### ⚡ Productivity & Utilities
+- https://pomodoro.arthurp.fr — Focus timer  
+- https://blocnote.arthurp.fr — Notes  
+- https://chrono.arthurp.fr — Timer  
+- https://clock.arthurp.fr — Clock  
+- https://calculatrice.arthurp.fr — Calculator  
+- https://form.arthurp.fr — Forms  
 
----
+### 🔗 Tools
+- https://reducelink.arthurp.fr — URL shortener  
+- https://qrcode.arthurp.fr — QR generator  
+- https://links.arthurp.fr — Link hub  
 
-### 🧩 Fun & Generators
+### 📚 Learning
+- https://learn.arthurp.fr — Learning platform  
+- https://qcu.arthurp.fr — Quiz platform (Physics/Chemistry)  
 
-* Sudoku Generator & Solver → https://sudoku.arthurp.fr
-* Imprimer Sudoku → https://imprimersudoku.arthurp.fr
-* Moon Phases → https://moon.arthurp.fr
+### 🧩 Experiments
+- https://sudoku.arthurp.fr — Sudoku generator  
+- https://imprimersudoku.arthurp.fr — Printable sudoku  
+- https://moon.arthurp.fr — Moon phases  
+- https://flint.arthurp.fr — Discord bot dashboard  
 
----
-
-### 🌐 Online Apps
-
-* FormCraft (Google Forms alternative) → https://form.arthurp.fr
-* Visio (Instant video room) → https://visio.arthurp.fr
-
----
-
-### 🤖 Projects
-
-* LazyBot (Discord bot + dashboard) → https://lazybot.arthurp.fr
-
----
-
-### 🎨 Other
-
-* Linktree → https://links.arthurp.fr
-* Portfolio → https://portfolio.arthurp.fr
-* Doudou Album → https://doudou.arthurp.fr
+### 🤖 Bots
+- https://lazybot.arthurp.fr — Discord bot system  
 
 ---
 
-## 🎯 Goal
+## 🎯 Vision
 
-Create a growing ecosystem of **free, fast and useful online tools** for everyone.
+A growing ecosystem of **fast, minimal and useful web tools** replacing heavy SaaS with simple alternatives.
 
 ---
 
 ## 📫 Contact
 
-* 🌐 Website: https://arthurp.fr
-* 📩 Contact page: https://contact.arthurp.fr
-* ✉️ Email: [contact@arthurp.fr](mailto:contact@arthurp.fr)
-* 📸 Instagram: https://www.instagram.com/arthur.pbty/
-
----
-
-⭐ Feel free to explore, use, and share my tools!
+🌐 https://contact.arthurp.fr  
+✉️ contact@arthurp.fr  
+📸 Instagram: https://www.instagram.com/arthur.pbty/
